@@ -52,7 +52,7 @@
 # Sets
 # Create a set with duplicate values
 
-numbers = {10, 20, 30, 20, 40, 10, 50}
+# numbers = {10, 20, 30, 20, 40, 10, 50}
 
 # print(numbers)
 
