@@ -97,7 +97,3 @@
 # student2.display()
 # student3.display()
 
-
-
-
-
